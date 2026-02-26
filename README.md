@@ -6,10 +6,6 @@
 BigBloonSabatogeToggle
 </h1>
 
-
-For your mod, remember to add the GitHub topic "btd6-mod"
-
-Features a GitHub actions setup to automatically build the mod whenever commits are pushed,
-and publish a release if a tag is pushed (using the LATEST.md as the body).
+BigBloonSabatogeToggle
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
